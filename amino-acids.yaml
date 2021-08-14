@@ -1,0 +1,170 @@
+- name: alanine
+  three: ala
+  one: A
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - aliphatic
+- name: arginine
+  three: arg
+  one: R
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - basic
+- name: asparagine
+  three: asn
+  one: N
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - amidic
+- name: aspartic acid
+  three: asp
+  one: D
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - acidic
+- name: cysteine
+  three: cys
+  one: C
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - sulfur
+- name: glutamine
+  three: gln
+  one: Q
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - amidic
+- name: glutamic acid
+  three: glu
+  one: E
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - acidic
+- name: glycine
+  three: gly
+  one: G
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - aliphatic
+- name: histidine
+  three: his
+  one: H
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - basic
+- name: isoleucine
+  three: ile
+  one: I
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  isoelectric:
+  properties:
+    - aliphatic
+- name: leucine
+  three: leu
+  one: L
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - aliphatic
+- name: lysine
+  three: lys
+  one: K
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - basic
+- name: methionine
+  three: met
+  one: M
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - sulfur
+- name: phenylalanine
+  three: phe
+  one: F
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - aromatic
+- name: proline
+  three: pro
+  one: P
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - aliphatic
+- name: serine
+  three: ser
+  one: S
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - hydroxylic
+- name: threonine
+  three: thr
+  one: T
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - hydroxylic
+- name: tryptophan
+  three: trp
+  one: W
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - aromatic
+- name: tyrosine
+  three: tyr
+  one: Y
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - aromatic
+- name: valine
+  three: val
+  one: V
+  sidechain_pka: 
+  cooh_pka:
+  amino_pka:
+  properties:
+    - aliphatic
